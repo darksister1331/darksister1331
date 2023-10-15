@@ -1,5 +1,7 @@
-### Hi there 👋
+# Kashmira Dey 👋
 **MediTechMaven**
+
+Biomedical engineer on a mission to revolutionize healthcare and transform biomedical imaging through the power of machine learning, deep learning, and cutting-edge computational tools. 🌐💡 Join me on this journey to change the world, one algorithm at a time! 💻🔬 #HealthTechInnovator #DataDoctor #MediTechMaven
 
 <!--
 **darksister1331/darksister1331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
